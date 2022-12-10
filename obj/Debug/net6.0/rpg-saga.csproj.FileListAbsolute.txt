@@ -1,0 +1,16 @@
+D:\rpg-saga\bin\Debug\net6.0\rpg-saga.exe
+D:\rpg-saga\bin\Debug\net6.0\rpg-saga.deps.json
+D:\rpg-saga\bin\Debug\net6.0\rpg-saga.runtimeconfig.json
+D:\rpg-saga\bin\Debug\net6.0\rpg-saga.dll
+D:\rpg-saga\bin\Debug\net6.0\rpg-saga.pdb
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.csproj.AssemblyReference.cache
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.GeneratedMSBuildEditorConfig.editorconfig
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.AssemblyInfoInputs.cache
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.AssemblyInfo.cs
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.csproj.CoreCompileInputs.cache
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.dll
+D:\rpg-saga\obj\Debug\net6.0\refint\rpg-saga.dll
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.pdb
+D:\rpg-saga\obj\Debug\net6.0\rpg-saga.genruntimeconfig.cache
+D:\rpg-saga\obj\Debug\net6.0\ref\rpg-saga.dll
+D:\rpg-saga\bin\Debug\net6.0\Main\Names.json
